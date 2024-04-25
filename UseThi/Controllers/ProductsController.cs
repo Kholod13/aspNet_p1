@@ -19,5 +19,15 @@ namespace UseThi.Controllers
 
             return View(products);
         }
+        public IActionResult Delete(int id)
+        {
+            var item = context.Products.Find(id);
+            if (item == null) return NotFound();
+
+            context.Products.Remove(item);
+            context.SaveChanges();
+
+            return RedirectToAction("Index");
+        }
     }
 }

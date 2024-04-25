@@ -66,17 +66,7 @@
                     <span>@i.Contact</span>
                 </td>
                 <td>
-                    <div class="btn-group" role="group" aria-label="Basic example">
-                        <button type="button" class="btn btn-secondary">
-                            <i class="bi bi-info-circle-fill"></i>
-                        </button>
-                        <a asp-action="Edit" asp-route-id="@i.Id" type="button" class="btn btn-warning">
-                            <i class="bi bi-pencil-fill"></i>
-                        </a>
-                        <a asp-action="Delete" asp-route-id="@i.Id" class="btn btn-danger">
-                            <i class="bi bi-trash-fill"></i>
-                        </a>
-                    </div>
+                     <a asp-action="Delete" asp-route-id="@i.Id" class="btn btn-danger">Delete</a>
                 </td>
             </tr>
         }
