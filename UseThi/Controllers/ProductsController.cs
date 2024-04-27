@@ -24,7 +24,14 @@ namespace UseThi.Controllers
             var item = context.Products.Find(id);
             if (item == null) return NotFound();
 
-            context.Products.Remove(item);
+            if (item.Quantity <= 1)
+            {
+                context.Products.Remove(item);
+            }
+            else
+            {
+                item.Quantity--;
+            }
             context.SaveChanges();
 
             return RedirectToAction("Index");

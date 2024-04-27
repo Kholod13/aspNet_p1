@@ -259,7 +259,7 @@ namespace UseThi.Migrations
                     b.Property<int>("Quantity")
                         .ValueGeneratedOnAdd()
                         .HasColumnType("int")
-                        .HasDefaultValue(0);
+                        .HasDefaultValue(1);
 
                     b.Property<bool>("Status")
                         .HasColumnType("bit");
@@ -288,6 +288,19 @@ namespace UseThi.Migrations
                         },
                         new
                         {
+                            Id = 2,
+                            CategoryId = 1,
+                            Contact = "sdjfh@gmail.com",
+                            Discount = 10,
+                            ImageUrl = "https://applecity.com.ua/image/cache/catalog/0iphone/ipohnex/iphone-x-black-1000x1000.png",
+                            Location = "Rivne",
+                            Name = "iPhone X",
+                            Price = 650m,
+                            Quantity = 0,
+                            Status = true
+                        },
+                        new
+                        {
                             Id = 3,
                             CategoryId = 3,
                             Contact = "+380439850090",
@@ -311,6 +324,19 @@ namespace UseThi.Migrations
                             Price = 1200m,
                             Quantity = 0,
                             Status = false
+                        },
+                        new
+                        {
+                            Id = 5,
+                            CategoryId = 1,
+                            Contact = "lalalalad@gmail.com",
+                            Discount = 10,
+                            ImageUrl = "https://newtime.ua/image/import/catalog/mac/macbook_pro/MacBook-Pro-16-2019/MacBook-Pro-16-Space-Gray-2019/MacBook-Pro-16-Space-Gray-00.webp",
+                            Location = "Lviv",
+                            Name = "MacBook Pro 2019",
+                            Price = 700m,
+                            Quantity = 0,
+                            Status = true
                         },
                         new
                         {
