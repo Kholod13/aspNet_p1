@@ -23,3 +23,10 @@ body {
 .form-check{
     margin-left: 20px;
 }
+.card{
+    max-width: 256px;
+}
+.card img{
+    max-width: 256px;
+    max-height: 256px;
+}

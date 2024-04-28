@@ -19,6 +19,12 @@ namespace UseThi.Controllers
 
             return View(products);
         }
+
+        public IActionResult Create()
+        {
+            return View();
+        }
+
         public IActionResult Delete(int id)
         {
             var item = context.Products.Find(id);
