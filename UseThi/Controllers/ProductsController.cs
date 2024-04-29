@@ -6,63 +6,54 @@ namespace UseThi.Controllers
 {
     public class ProductsController : Controller
     {
-        private ShopDbContext context;
-        public ProductsController()
-        {
-            context = new ShopDbContext();
-        }
+        private readonly ShopDbContext _context;
 
+        public ProductsController(ShopDbContext context)
+        {
+            _context = context;
+        }
 
         public IActionResult Index()
         {
-            //get products form Db
-            var products = context.Products.ToList();
-
+            var products = _context.Products.ToList();
             return View(products);
         }
 
+        [HttpPost]
         public IActionResult Create(Product model)
         {
             if (ModelState.IsValid)
             {
-                // Отримання об'єкта категорії за допомогою її ідентифікатора
-                var category = context.Categories.Find(model.CategoryId);
-                // Перевірка, чи категорія існує
+                var category = _context.Categories.Find(model.CategoryId);
                 if (category == null)
                 {
-                    // Обробка помилки - категорія не знайдена
                     return NotFound("Category not found");
                 }
-                // Встановлення об'єкта категорії для продукту
                 model.Category = category;
-                // Додавання продукту та збереження змін у базі даних
-                context.Products.Add(model);
-                context.SaveChanges();
-                // Повернення користувача на сторінку списку продуктів
+                _context.Products.Add(model);
+                _context.SaveChanges();
                 return RedirectToAction(nameof(Index));
             }
-            // Якщо модель недійсна, повертаємо користувача на сторінку створення продукту з повідомленням про помилку
             return View(model);
         }
 
-
-
+        [HttpPost]
         public IActionResult Delete(int id)
         {
-            var item = context.Products.Find(id);
+            var item = _context.Products.Find(id);
             if (item == null) return NotFound();
 
             if (item.Quantity <= 1)
             {
-                context.Products.Remove(item);
+                _context.Products.Remove(item);
             }
             else
             {
                 item.Quantity--;
             }
-            context.SaveChanges();
+            _context.SaveChanges();
 
-            return RedirectToAction("Index");
+            return RedirectToAction(nameof(Index));
         }
     }
 }

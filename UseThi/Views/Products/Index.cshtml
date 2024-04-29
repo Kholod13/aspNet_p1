@@ -1,4 +1,6 @@
-﻿@model List<Product>;
+﻿@using UseThi.Data;
+@model List<Product>;
+@inject ShopDbContext context;
 <h1>Products List</h1>
 <table id="product-table" class="table table-striped table-hover">
     <thead>
@@ -40,7 +42,13 @@
                     }
                     @(i.Price - (i.Price * i.Discount / 100M))$
                 </td>
-                <td>@(i.Category?.Name ?? "not loaded")</td>
+                <td>
+                    @{
+                        var category = context.Categories.Find(i.CategoryId);
+                        string categoryName = category != null ? category.Name : "not loaded";
+                    }
+                    @categoryName
+                </td>
                 <td>@i.Discount%</td>
                 <td>
                     @if (i.Quantity > 0)
