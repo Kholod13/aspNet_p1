@@ -1,6 +1,7 @@
 ﻿using Microsoft.AspNetCore.Mvc;
 using UseThi.Data.Entities;
 using UseThi.Data;
+using Microsoft.AspNetCore.Mvc.Rendering;
 
 public class ProductsController : Controller
 {
@@ -17,10 +18,48 @@ public class ProductsController : Controller
         return View(products);
     }
 
-    [HttpGet] // Додали атрибут [HttpGet] для відображення форми створення
+    [HttpGet]
     public IActionResult Create()
     {
         return View();
+    }
+    [HttpGet]
+    public IActionResult Edit(int id)
+    {
+        var item = _context.Products.Find(id);
+        if (item == null) return NotFound();
+        ViewBag.Categories = _context.Categories.ToList();
+        return View(item);
+    }
+    [HttpPost]
+    public IActionResult Edit(Product model)
+    {
+        var existingProduct = _context.Products.Find(model.Id);
+        if (existingProduct == null)
+        {
+            return NotFound("Product not found");
+        }
+
+        var category = _context.Categories.Find(model.CategoryId);
+        if (category == null)
+        {
+            return NotFound("Category not found");
+        }
+
+        existingProduct.Name = model.Name;
+        existingProduct.Description = model.Description;
+        existingProduct.Location = model.Location;
+        existingProduct.Contact = model.Contact;
+        existingProduct.Price = model.Price;
+        existingProduct.Quantity = model.Quantity;
+        existingProduct.Discount = model.Discount;
+        existingProduct.Status = model.Status;
+        existingProduct.Category = category;
+
+        _context.Products.Update(existingProduct); // Оновлення запису в базі даних
+        _context.SaveChanges();
+
+        return RedirectToAction(nameof(Index));
     }
 
     [HttpPost] // Використовуємо [HttpPost] для обробки даних форми при створенні продукту
