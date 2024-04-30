@@ -1,5 +1,7 @@
 ﻿using Microsoft.AspNetCore.Mvc;
+using Microsoft.EntityFrameworkCore;
 using System.Diagnostics;
+using UseThi.Data;
 using UseThi.Models;
 
 namespace UseThi.Controllers
@@ -7,15 +9,18 @@ namespace UseThi.Controllers
     public class HomeController : Controller
     {
         private readonly ILogger<HomeController> _logger;
+        private readonly ShopDbContext _context;
 
-        public HomeController(ILogger<HomeController> logger)
+        public HomeController(ILogger<HomeController> logger, ShopDbContext context)
         {
             _logger = logger;
+            _context = context;
         }
 
         public IActionResult Index()
         {
-            return View();
+            var items = _context.Products.Include(x => x.Category).ToList();
+            return View(items); // ~/Views/Home/Index.cshtml
         }
 
         public IActionResult Privacy()
