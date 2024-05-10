@@ -1,5 +1,6 @@
 using Microsoft.AspNetCore.Identity;
 using Microsoft.EntityFrameworkCore;
+using System.Reflection;
 using UseThi.Data;
 using UseThi.Data.Entities;
 
@@ -8,6 +9,7 @@ var connectionString = builder.Configuration.GetConnectionString("ShopDbContextC
 
 builder.Services.AddDbContext<ShopDbContext>(options =>
     options.UseSqlServer(connectionString));
+builder.Services.AddAutoMapper(Assembly.GetExecutingAssembly());
 
 builder.Services.AddDefaultIdentity<User>(options => options.SignIn.RequireConfirmedAccount = true)
     .AddEntityFrameworkStores<ShopDbContext>();

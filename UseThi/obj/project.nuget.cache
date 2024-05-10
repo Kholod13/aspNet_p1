@@ -1,9 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "mxLvqPgNyJCA2jbd1qNxiFewVJ6/ty8hfCChJErmeR2BdVrr01YPikAnQNn1BTX7qJ6CIQCyibssvxHz8i7qVQ==",
+  "dgSpecHash": "oHk5k3/2sUA4kLqemLeLhp/3p+evPUv1K8289nPP1i76hzZvrsCILwWAor3ybUjnwZnZLo8C6QY0aGucSJFimg==",
   "success": true,
   "projectFilePath": "C:\\Users\\kholod\\source\\repos\\aspNet_p1\\UseThi\\UseThi.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\kholod\\.nuget\\packages\\automapper\\13.0.1\\automapper.13.0.1.nupkg.sha512",
     "C:\\Users\\kholod\\.nuget\\packages\\bouncycastle.cryptography\\2.3.0\\bouncycastle.cryptography.2.3.0.nupkg.sha512",
     "C:\\Users\\kholod\\.nuget\\packages\\enums.net\\4.0.1\\enums.net.4.0.1.nupkg.sha512",
     "C:\\Users\\kholod\\.nuget\\packages\\extendednumerics.bigdecimal\\2023.1000.0.230\\extendednumerics.bigdecimal.2023.1000.0.230.nupkg.sha512",

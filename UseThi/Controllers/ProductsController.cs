@@ -2,14 +2,17 @@
 using UseThi.Data.Entities;
 using UseThi.Data;
 using Microsoft.AspNetCore.Mvc.Rendering;
+using AutoMapper;
 
 public class ProductsController : Controller
 {
     private readonly ShopDbContext _context;
+    private readonly IMapper mapper;
 
-    public ProductsController(ShopDbContext context)
+    public ProductsController(ShopDbContext context, IMapper mapper)
     {
         _context = context;
+        this.mapper = mapper;
     }
 
     public IActionResult Index()
