@@ -24,8 +24,9 @@
         </ol>
 
         <a href="#" class="btn btn-success">Confirm Order</a>
+        <a asp-controller="Home" class="btn btn-outline-primary mt-3">Continue Shopping</a>
     </div>
     <div class="card-footer text-muted">
-        Total Price: @Model.Sum(x => x.Price)$
+        Total Price: <span class="badge bg-primary">@Model.Sum(x => x.Price)$</span>
     </div>
 </div>
