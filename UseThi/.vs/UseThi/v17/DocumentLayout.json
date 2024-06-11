@@ -1,0 +1,500 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\kholod\\source\\repos\\aspNet_p1\\UseThi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{884D95B0-3DB7-44E0-8255-7BE80D997637}|UseThi.csproj|c:\\users\\kholod\\source\\repos\\aspnet_p1\\usethi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{884D95B0-3DB7-44E0-8255-7BE80D997637}|UseThi.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{884D95B0-3DB7-44E0-8255-7BE80D997637}|UseThi.csproj|c:\\users\\kholod\\source\\repos\\aspnet_p1\\usethi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{884D95B0-3DB7-44E0-8255-7BE80D997637}|UseThi.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{615021BF-7508-42FF-85D9-079E1E916AA1}|..\\Data\\Data.csproj|c:\\users\\kholod\\source\\repos\\aspnet_p1\\data\\migrations\\20240611065706_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{884D95B0-3DB7-44E0-8255-7BE80D997637}|UseThi.csproj|c:\\users\\kholod\\source\\repos\\aspnet_p1\\usethi\\usethi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{884D95B0-3DB7-44E0-8255-7BE80D997637}|UseThi.csproj|solutionrelative:usethi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{884D95B0-3DB7-44E0-8255-7BE80D997637}|UseThi.csproj|c:\\users\\kholod\\source\\repos\\aspnet_p1\\usethi\\views\\products\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{884D95B0-3DB7-44E0-8255-7BE80D997637}|UseThi.csproj|solutionrelative:views\\products\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{884D95B0-3DB7-44E0-8255-7BE80D997637}|UseThi.csproj|c:\\users\\kholod\\source\\repos\\aspnet_p1\\usethi\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{884D95B0-3DB7-44E0-8255-7BE80D997637}|UseThi.csproj|solutionrelative:views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{884D95B0-3DB7-44E0-8255-7BE80D997637}|UseThi.csproj|c:\\users\\kholod\\source\\repos\\aspnet_p1\\usethi\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{884D95B0-3DB7-44E0-8255-7BE80D997637}|UseThi.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{884D95B0-3DB7-44E0-8255-7BE80D997637}|UseThi.csproj|c:\\users\\kholod\\source\\repos\\aspnet_p1\\usethi\\areas\\identity\\pages\\account\\register.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{884D95B0-3DB7-44E0-8255-7BE80D997637}|UseThi.csproj|solutionrelative:areas\\identity\\pages\\account\\register.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{884D95B0-3DB7-44E0-8255-7BE80D997637}|UseThi.csproj|c:\\users\\kholod\\source\\repos\\aspnet_p1\\usethi\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{884D95B0-3DB7-44E0-8255-7BE80D997637}|UseThi.csproj|solutionrelative:views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{884D95B0-3DB7-44E0-8255-7BE80D997637}|UseThi.csproj|c:\\users\\kholod\\source\\repos\\aspnet_p1\\usethi\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{884D95B0-3DB7-44E0-8255-7BE80D997637}|UseThi.csproj|solutionrelative:controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{884D95B0-3DB7-44E0-8255-7BE80D997637}|UseThi.csproj|c:\\users\\kholod\\source\\repos\\aspnet_p1\\usethi\\models\\productcartmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{884D95B0-3DB7-44E0-8255-7BE80D997637}|UseThi.csproj|solutionrelative:models\\productcartmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{884D95B0-3DB7-44E0-8255-7BE80D997637}|UseThi.csproj|c:\\users\\kholod\\source\\repos\\aspnet_p1\\usethi\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{884D95B0-3DB7-44E0-8255-7BE80D997637}|UseThi.csproj|solutionrelative:views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{884D95B0-3DB7-44E0-8255-7BE80D997637}|UseThi.csproj|c:\\users\\kholod\\source\\repos\\aspnet_p1\\usethi\\views\\cart\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{884D95B0-3DB7-44E0-8255-7BE80D997637}|UseThi.csproj|solutionrelative:views\\cart\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{884D95B0-3DB7-44E0-8255-7BE80D997637}|UseThi.csproj|c:\\users\\kholod\\source\\repos\\aspnet_p1\\usethi\\views\\products\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{884D95B0-3DB7-44E0-8255-7BE80D997637}|UseThi.csproj|solutionrelative:views\\products\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{884D95B0-3DB7-44E0-8255-7BE80D997637}|UseThi.csproj|c:\\users\\kholod\\source\\repos\\aspnet_p1\\usethi\\views\\products\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{884D95B0-3DB7-44E0-8255-7BE80D997637}|UseThi.csproj|solutionrelative:views\\products\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{884D95B0-3DB7-44E0-8255-7BE80D997637}|UseThi.csproj|c:\\users\\kholod\\source\\repos\\aspnet_p1\\usethi\\mapperprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{884D95B0-3DB7-44E0-8255-7BE80D997637}|UseThi.csproj|solutionrelative:mapperprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{884D95B0-3DB7-44E0-8255-7BE80D997637}|UseThi.csproj|c:\\users\\kholod\\source\\repos\\aspnet_p1\\usethi\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{884D95B0-3DB7-44E0-8255-7BE80D997637}|UseThi.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{884D95B0-3DB7-44E0-8255-7BE80D997637}|UseThi.csproj|c:\\users\\kholod\\source\\repos\\aspnet_p1\\usethi\\controllers\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{884D95B0-3DB7-44E0-8255-7BE80D997637}|UseThi.csproj|solutionrelative:controllers\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{884D95B0-3DB7-44E0-8255-7BE80D997637}|UseThi.csproj|c:\\users\\kholod\\source\\repos\\aspnet_p1\\usethi\\areas\\identity\\pages\\account\\manage\\_managenav.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{884D95B0-3DB7-44E0-8255-7BE80D997637}|UseThi.csproj|solutionrelative:areas\\identity\\pages\\account\\manage\\_managenav.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{884D95B0-3DB7-44E0-8255-7BE80D997637}|UseThi.csproj|c:\\users\\kholod\\source\\repos\\aspnet_p1\\usethi\\areas\\identity\\pages\\account\\manage\\personaldata.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{884D95B0-3DB7-44E0-8255-7BE80D997637}|UseThi.csproj|solutionrelative:areas\\identity\\pages\\account\\manage\\personaldata.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{884D95B0-3DB7-44E0-8255-7BE80D997637}|UseThi.csproj|c:\\users\\kholod\\source\\repos\\aspnet_p1\\usethi\\areas\\identity\\pages\\account\\manage\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{884D95B0-3DB7-44E0-8255-7BE80D997637}|UseThi.csproj|solutionrelative:areas\\identity\\pages\\account\\manage\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{884D95B0-3DB7-44E0-8255-7BE80D997637}|UseThi.csproj|c:\\users\\kholod\\source\\repos\\aspnet_p1\\usethi\\areas\\identity\\pages\\account\\logout.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{884D95B0-3DB7-44E0-8255-7BE80D997637}|UseThi.csproj|solutionrelative:areas\\identity\\pages\\account\\logout.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{884D95B0-3DB7-44E0-8255-7BE80D997637}|UseThi.csproj|c:\\users\\kholod\\source\\repos\\aspnet_p1\\usethi\\areas\\identity\\pages\\account\\login.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{884D95B0-3DB7-44E0-8255-7BE80D997637}|UseThi.csproj|solutionrelative:areas\\identity\\pages\\account\\login.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{884D95B0-3DB7-44E0-8255-7BE80D997637}|UseThi.csproj|c:\\users\\kholod\\source\\repos\\aspnet_p1\\usethi\\areas\\identity\\pages\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{884D95B0-3DB7-44E0-8255-7BE80D997637}|UseThi.csproj|solutionrelative:areas\\identity\\pages\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{615021BF-7508-42FF-85D9-079E1E916AA1}|..\\Data\\Data.csproj|c:\\users\\kholod\\source\\repos\\aspnet_p1\\data\\data.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{615021BF-7508-42FF-85D9-079E1E916AA1}|..\\Data\\Data.csproj|c:\\users\\kholod\\source\\repos\\aspnet_p1\\data\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{615021BF-7508-42FF-85D9-079E1E916AA1}|..\\Data\\Data.csproj|c:\\users\\kholod\\source\\repos\\aspnet_p1\\data\\shopdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{615021BF-7508-42FF-85D9-079E1E916AA1}|..\\Data\\Data.csproj|c:\\users\\kholod\\source\\repos\\aspnet_p1\\data\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{615021BF-7508-42FF-85D9-079E1E916AA1}|..\\Data\\Data.csproj|c:\\users\\kholod\\source\\repos\\aspnet_p1\\data\\entities\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 231,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\kholod\\source\\repos\\aspNet_p1\\UseThi\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\kholod\\source\\repos\\aspNet_p1\\UseThi\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-11T07:07:43.148Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "20240611065706_Initial.cs",
+              "DocumentMoniker": "C:\\Users\\kholod\\source\\repos\\aspNet_p1\\Data\\Migrations\\20240611065706_Initial.cs",
+              "RelativeDocumentMoniker": "..\\Data\\Migrations\\20240611065706_Initial.cs",
+              "ToolTip": "C:\\Users\\kholod\\source\\repos\\aspNet_p1\\Data\\Migrations\\20240611065706_Initial.cs",
+              "RelativeToolTip": "..\\Data\\Migrations\\20240611065706_Initial.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T06:57:06.359Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ProductsController.cs",
+              "DocumentMoniker": "C:\\Users\\kholod\\source\\repos\\aspNet_p1\\UseThi\\Controllers\\ProductsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ProductsController.cs",
+              "ToolTip": "C:\\Users\\kholod\\source\\repos\\aspNet_p1\\UseThi\\Controllers\\ProductsController.cs",
+              "RelativeToolTip": "Controllers\\ProductsController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T06:34:22.008Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Register.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\kholod\\source\\repos\\aspNet_p1\\UseThi\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "RelativeDocumentMoniker": "Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "ToolTip": "C:\\Users\\kholod\\source\\repos\\aspNet_p1\\UseThi\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "RelativeToolTip": "Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "ViewState": "AQIAAIgAAAAAAAAAAAAMwJEAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T06:33:57.471Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\kholod\\source\\repos\\aspNet_p1\\UseThi\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\kholod\\source\\repos\\aspNet_p1\\UseThi\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-11T06:32:48.811Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\kholod\\source\\repos\\aspNet_p1\\UseThi\\Views\\Products\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Products\\Index.cshtml",
+              "ToolTip": "C:\\Users\\kholod\\source\\repos\\aspNet_p1\\UseThi\\Views\\Products\\Index.cshtml",
+              "RelativeToolTip": "Views\\Products\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-11T06:32:40.959Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\kholod\\source\\repos\\aspNet_p1\\UseThi\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\kholod\\source\\repos\\aspNet_p1\\UseThi\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAC9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T06:32:54.609Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ProductCartModel.cs",
+              "DocumentMoniker": "C:\\Users\\kholod\\source\\repos\\aspNet_p1\\UseThi\\Models\\ProductCartModel.cs",
+              "RelativeDocumentMoniker": "Models\\ProductCartModel.cs",
+              "ToolTip": "C:\\Users\\kholod\\source\\repos\\aspNet_p1\\UseThi\\Models\\ProductCartModel.cs",
+              "RelativeToolTip": "Models\\ProductCartModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T06:34:42.957Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UseThi.csproj",
+              "DocumentMoniker": "C:\\Users\\kholod\\source\\repos\\aspNet_p1\\UseThi\\UseThi.csproj",
+              "RelativeDocumentMoniker": "UseThi.csproj",
+              "ToolTip": "C:\\Users\\kholod\\source\\repos\\aspNet_p1\\UseThi\\UseThi.csproj",
+              "RelativeToolTip": "UseThi.csproj",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAAA8AAABPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-06-11T06:15:45.291Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "_LoginPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\kholod\\source\\repos\\aspNet_p1\\UseThi\\Views\\Shared\\_LoginPartial.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_LoginPartial.cshtml",
+              "ToolTip": "C:\\Users\\kholod\\source\\repos\\aspNet_p1\\UseThi\\Views\\Shared\\_LoginPartial.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_LoginPartial.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-11T06:36:18.913Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\kholod\\source\\repos\\aspNet_p1\\UseThi\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\kholod\\source\\repos\\aspNet_p1\\UseThi\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "Views\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-11T06:47:19.447Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "C:\\Users\\kholod\\source\\repos\\aspNet_p1\\UseThi\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Privacy.cshtml",
+              "ToolTip": "C:\\Users\\kholod\\source\\repos\\aspNet_p1\\UseThi\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "Views\\Home\\Privacy.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-11T06:42:37.049Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\kholod\\source\\repos\\aspNet_p1\\UseThi\\Views\\Cart\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Cart\\Index.cshtml",
+              "ToolTip": "C:\\Users\\kholod\\source\\repos\\aspNet_p1\\UseThi\\Views\\Cart\\Index.cshtml",
+              "RelativeToolTip": "Views\\Cart\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-11T06:42:18.835Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\kholod\\source\\repos\\aspNet_p1\\UseThi\\Views\\Products\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Views\\Products\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\kholod\\source\\repos\\aspNet_p1\\UseThi\\Views\\Products\\Edit.cshtml",
+              "RelativeToolTip": "Views\\Products\\Edit.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-11T06:41:32.276Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\kholod\\source\\repos\\aspNet_p1\\UseThi\\Views\\Products\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\Products\\Create.cshtml",
+              "ToolTip": "C:\\Users\\kholod\\source\\repos\\aspNet_p1\\UseThi\\Views\\Products\\Create.cshtml",
+              "RelativeToolTip": "Views\\Products\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-11T06:40:42.919Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "MapperProfile.cs",
+              "DocumentMoniker": "C:\\Users\\kholod\\source\\repos\\aspNet_p1\\UseThi\\MapperProfile.cs",
+              "RelativeDocumentMoniker": "MapperProfile.cs",
+              "ToolTip": "C:\\Users\\kholod\\source\\repos\\aspNet_p1\\UseThi\\MapperProfile.cs",
+              "RelativeToolTip": "MapperProfile.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T06:34:35.616Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\kholod\\source\\repos\\aspNet_p1\\UseThi\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\kholod\\source\\repos\\aspNet_p1\\UseThi\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T06:34:15.762Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "CartController.cs",
+              "DocumentMoniker": "C:\\Users\\kholod\\source\\repos\\aspNet_p1\\UseThi\\Controllers\\CartController.cs",
+              "RelativeDocumentMoniker": "Controllers\\CartController.cs",
+              "ToolTip": "C:\\Users\\kholod\\source\\repos\\aspNet_p1\\UseThi\\Controllers\\CartController.cs",
+              "RelativeToolTip": "Controllers\\CartController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T06:34:05.995Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "_ManageNav.cshtml",
+              "DocumentMoniker": "C:\\Users\\kholod\\source\\repos\\aspNet_p1\\UseThi\\Areas\\Identity\\Pages\\Account\\Manage\\_ManageNav.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Identity\\Pages\\Account\\Manage\\_ManageNav.cshtml",
+              "ToolTip": "C:\\Users\\kholod\\source\\repos\\aspNet_p1\\UseThi\\Areas\\Identity\\Pages\\Account\\Manage\\_ManageNav.cshtml",
+              "RelativeToolTip": "Areas\\Identity\\Pages\\Account\\Manage\\_ManageNav.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-11T06:33:48.39Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "PersonalData.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\kholod\\source\\repos\\aspNet_p1\\UseThi\\Areas\\Identity\\Pages\\Account\\Manage\\PersonalData.cshtml.cs",
+              "RelativeDocumentMoniker": "Areas\\Identity\\Pages\\Account\\Manage\\PersonalData.cshtml.cs",
+              "ToolTip": "C:\\Users\\kholod\\source\\repos\\aspNet_p1\\UseThi\\Areas\\Identity\\Pages\\Account\\Manage\\PersonalData.cshtml.cs",
+              "RelativeToolTip": "Areas\\Identity\\Pages\\Account\\Manage\\PersonalData.cshtml.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAApwAgAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T06:33:41.868Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Index.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\kholod\\source\\repos\\aspNet_p1\\UseThi\\Areas\\Identity\\Pages\\Account\\Manage\\Index.cshtml.cs",
+              "RelativeDocumentMoniker": "Areas\\Identity\\Pages\\Account\\Manage\\Index.cshtml.cs",
+              "ToolTip": "C:\\Users\\kholod\\source\\repos\\aspNet_p1\\UseThi\\Areas\\Identity\\Pages\\Account\\Manage\\Index.cshtml.cs",
+              "RelativeToolTip": "Areas\\Identity\\Pages\\Account\\Manage\\Index.cshtml.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAApwAsAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T06:33:34.262Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Logout.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\kholod\\source\\repos\\aspNet_p1\\UseThi\\Areas\\Identity\\Pages\\Account\\Logout.cshtml.cs",
+              "RelativeDocumentMoniker": "Areas\\Identity\\Pages\\Account\\Logout.cshtml.cs",
+              "ToolTip": "C:\\Users\\kholod\\source\\repos\\aspNet_p1\\UseThi\\Areas\\Identity\\Pages\\Account\\Logout.cshtml.cs",
+              "RelativeToolTip": "Areas\\Identity\\Pages\\Account\\Logout.cshtml.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAApwAsAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T06:33:26.567Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Login.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\kholod\\source\\repos\\aspNet_p1\\UseThi\\Areas\\Identity\\Pages\\Account\\Login.cshtml.cs",
+              "RelativeDocumentMoniker": "Areas\\Identity\\Pages\\Account\\Login.cshtml.cs",
+              "ToolTip": "C:\\Users\\kholod\\source\\repos\\aspNet_p1\\UseThi\\Areas\\Identity\\Pages\\Account\\Login.cshtml.cs",
+              "RelativeToolTip": "Areas\\Identity\\Pages\\Account\\Login.cshtml.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAApwBAAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T06:33:16.528Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\kholod\\source\\repos\\aspNet_p1\\UseThi\\Areas\\Identity\\Pages\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Identity\\Pages\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\kholod\\source\\repos\\aspNet_p1\\UseThi\\Areas\\Identity\\Pages\\_ViewImports.cshtml",
+              "RelativeToolTip": "Areas\\Identity\\Pages\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-11T06:32:15.901Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Microsoft.Common.CurrentVersion.targets",
+              "DocumentMoniker": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "ToolTip": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "ViewState": "AQIAAFEHAAAAAAAAAAArwFYHAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2024-06-11T06:10:22.234Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Data.csproj",
+              "DocumentMoniker": "C:\\Users\\kholod\\source\\repos\\aspNet_p1\\Data\\Data.csproj",
+              "RelativeDocumentMoniker": "..\\Data\\Data.csproj",
+              "ToolTip": "C:\\Users\\kholod\\source\\repos\\aspNet_p1\\Data\\Data.csproj",
+              "RelativeToolTip": "..\\Data\\Data.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-06-09T00:11:14.923Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\kholod\\source\\repos\\aspNet_p1\\Data\\Entities\\User.cs",
+              "RelativeDocumentMoniker": "..\\Data\\Entities\\User.cs",
+              "ToolTip": "C:\\Users\\kholod\\source\\repos\\aspNet_p1\\Data\\Entities\\User.cs",
+              "RelativeToolTip": "..\\Data\\Entities\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-08T21:39:17.345Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\kholod\\source\\repos\\aspNet_p1\\Data\\Entities\\Product.cs",
+              "RelativeDocumentMoniker": "..\\Data\\Entities\\Product.cs",
+              "ToolTip": "C:\\Users\\kholod\\source\\repos\\aspNet_p1\\Data\\Entities\\Product.cs",
+              "RelativeToolTip": "..\\Data\\Entities\\Product.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-08T21:39:09.067Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "ShopDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\kholod\\source\\repos\\aspNet_p1\\Data\\ShopDbContext.cs",
+              "RelativeDocumentMoniker": "..\\Data\\ShopDbContext.cs",
+              "ToolTip": "C:\\Users\\kholod\\source\\repos\\aspNet_p1\\Data\\ShopDbContext.cs",
+              "RelativeToolTip": "..\\Data\\ShopDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-08T21:38:23.032Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\kholod\\source\\repos\\aspNet_p1\\Data\\Entities\\Category.cs",
+              "RelativeDocumentMoniker": "..\\Data\\Entities\\Category.cs",
+              "ToolTip": "C:\\Users\\kholod\\source\\repos\\aspNet_p1\\Data\\Entities\\Category.cs",
+              "RelativeToolTip": "..\\Data\\Entities\\Category.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-08T21:38:08.785Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

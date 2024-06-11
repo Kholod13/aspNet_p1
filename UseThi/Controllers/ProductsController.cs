@@ -1,6 +1,6 @@
 ﻿using Microsoft.AspNetCore.Mvc;
-using UseThi.Data.Entities;
-using UseThi.Data;
+using Data.Data.Entities;
+using Data.Data;
 using Microsoft.AspNetCore.Mvc.Rendering;
 using AutoMapper;
 

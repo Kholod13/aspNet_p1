@@ -10,6 +10,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution 
 		.editorconfig = .editorconfig
 	EndProjectSection
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Data", "..\Data\Data.csproj", "{615021BF-7508-42FF-85D9-079E1E916AA1}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -20,6 +22,10 @@ Global
 		{884D95B0-3DB7-44E0-8255-7BE80D997637}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{884D95B0-3DB7-44E0-8255-7BE80D997637}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{884D95B0-3DB7-44E0-8255-7BE80D997637}.Release|Any CPU.Build.0 = Release|Any CPU
+		{615021BF-7508-42FF-85D9-079E1E916AA1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{615021BF-7508-42FF-85D9-079E1E916AA1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{615021BF-7508-42FF-85D9-079E1E916AA1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{615021BF-7508-42FF-85D9-079E1E916AA1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

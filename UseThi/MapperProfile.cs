@@ -1,5 +1,5 @@
 ﻿using AutoMapper;
-using UseThi.Data.Entities;
+using Data.Data.Entities;
 using UseThi.Models;
 
 namespace UseThi

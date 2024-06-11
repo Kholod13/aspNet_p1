@@ -1,8 +1,8 @@
 using Microsoft.AspNetCore.Identity;
 using Microsoft.EntityFrameworkCore;
 using System.Reflection;
-using UseThi.Data;
-using UseThi.Data.Entities;
+using Data.Data;
+using Data.Data.Entities;
 
 var builder = WebApplication.CreateBuilder(args);
 var connectionString = builder.Configuration.GetConnectionString("ShopDbContextConnection") ?? throw new InvalidOperationException("Connection string 'ShopDbContextConnection' not found.");

@@ -2,7 +2,7 @@
 using Microsoft.AspNetCore.Mvc;
 using Org.BouncyCastle.Crypto.Utilities;
 using System.Text.Json;
-using UseThi.Data;
+using Data.Data;
 using UseThi.Extensions;
 using UseThi.Models;
 

@@ -1,5 +1,5 @@
 ﻿using System.ComponentModel.DataAnnotations;
-using UseThi.Data.Entities;
+using Data.Data.Entities;
 
 namespace UseThi.Models
 {

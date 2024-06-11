@@ -1,7 +1,7 @@
 ﻿using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
 using System.Diagnostics;
-using UseThi.Data;
+using Data.Data;
 using UseThi.Models;
 
 namespace UseThi.Controllers

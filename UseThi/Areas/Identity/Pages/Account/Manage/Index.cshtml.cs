@@ -9,7 +9,7 @@ using System.Threading.Tasks;
 using Microsoft.AspNetCore.Identity;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.RazorPages;
-using UseThi.Data.Entities;
+using Data.Data.Entities;
 
 namespace UseThi.Areas.Identity.Pages.Account.Manage
 {
